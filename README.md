@@ -56,6 +56,7 @@
 **Real-Time / APIs / Hosting:**  
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
+[![Vercel](https://img.shields.io/badge/Deployed_with-Vercel-000000?style=flat&logo=vercel&logoColor=white)](https://vercel.com/)
 
 ---
 
