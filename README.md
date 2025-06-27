@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tsegaye</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
-- 🌱 I’m currently improving my **React.js & project testing skills**
+- 🌱 I’m currently improving my **ReactNative & project testing skills**
 
 - 👯 I’m open to **collaboration** on real-world apps and open-source
 
-- 💬 Ask me about **Node.js, MongoDB, Socket.io, Express, or REST APIs, passport.js**
+- 💬 Ask me about **Next.js,ReactNative,Node.js, MongoDB, Socket.io, Express, or REST APIs, passport.js**
 
 - 📫 Reach me at: **shewamaretsegaye@gmail.com**
 
