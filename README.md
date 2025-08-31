@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tsegaye</h1>
 <h3 align="center">Developer</h3>
 
-- 👯 Open to **collaboration** on real-world apps  
-- 💬 Ask me about **Next.js, React Native, Node.js, MongoDB, Socket.io, Express, REST APIs**  
-- 📫 Reach me: **shewamaretsegaye@gmail.com**  
+- Open to **collaboration** on real-world apps  
+- Ask me about **Backend**  
+- Reach me: **shewamaretsegaye@gmail.com**  
 - ⚡ Fun fact: I love turning complex ideas into usable apps  
 
 ---
