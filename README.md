@@ -7,56 +7,36 @@
 
 ---
 ## 🔗 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" width="60" height="60" /></a>
-  <a href="mailto:shewamaretsegaye@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" width="60" height="60" /></a>
-  <a href="https://github.com/tse-coder"><img src="https://img.icons8.com/color/96/000000/github.png" width="60" height="60" /></a>
-</p>
+<div align="center">
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="60" height="60" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:shewamaretsegaye@gmail.com">
+    <img src="https://img.icons8.com/color/96/000000/gmail.png" width="60" height="60" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/tse-coder">
+    <img src="https://img.icons8.com/color/96/000000/github.png" width="60" height="60" alt="GitHub"/>
+  </a>
+</div>
 
 ---
 ## 🛠️ Skills
-<p align="center">
-  <img src="https://img.icons8.com/color/96/000000/html-5.png" width="60" height="60" />
-  <img src="https://img.icons8.com/color/96/000000/css3.png" width="60" height="60" />
-  <img src="https://img.icons8.com/color/96/000000/javascript.png" width="60" height="60" />
-  <img src="https://img.icons8.com/color/96/000000/tailwind_css.png" width="60" height="60" />
-  <img src="https://img.icons8.com/color/96/000000/react-native.png" width="60" height="60" />
-  <img src="https://img.icons8.com/color/96/000000/nextjs.png" width="60" height="60" />
-  <img src="https://img.icons8.com/color/96/000000/nodejs.png" width="60" height="60" />
-  <img src="https://img.icons8.com/color/96/000000/express.png" width="60" height="60" />
-  <img src="https://img.icons8.com/color/96/000000/mongodb.png" width="60" height="60" />
-  <img src="https://img.icons8.com/color/96/000000/socket.io.png" width="60" height="60" />
-  <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" width="60" height="60" />
-  <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" width="60" height="60" />
-  <img src="https://img.icons8.com/color/96/000000/python.png" width="60" height="60" />
-  <img src="https://img.icons8.com/color/96/000000/svelte.png" width="60" height="60" />
-</p>
+<div align="center">
+  <img src="https://img.icons8.com/color/96/000000/html-5.png" width="60" height="60" alt="HTML5"/>
+  <img src="https://img.icons8.com/color/96/000000/css3.png" width="60" height="60" alt="CSS3"/>
+  <img src="https://img.icons8.com/color/96/000000/javascript.png" width="60" height="60" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/96/000000/tailwind_css.png" width="60" height="60" alt="Tailwind CSS"/>
+  <img src="https://img.icons8.com/color/96/000000/react-native.png" width="60" height="60" alt="React"/>
+  <img src="https://img.icons8.com/color/96/000000/nextjs.png" width="60" height="60" alt="Next.js"/>
+  <img src="https://img.icons8.com/color/96/000000/nodejs.png" width="60" height="60" alt="Node.js"/>
+  <img src="https://img.icons8.com/color/96/000000/express.png" width="60" height="60" alt="Express.js"/>
+  <img src="https://img.icons8.com/color/96/000000/mongodb.png" width="60" height="60" alt="MongoDB"/>
+  <img src="https://img.icons8.com/color/96/000000/socket.io.png" width="60" height="60" alt="Socket.io"/>
+  <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" width="60" height="60" alt="Java"/>
+  <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" width="60" height="60" alt="C++"/>
+  <img src="https://img.icons8.com/color/96/000000/python.png" width="60" height="60" alt="Python"/>
+  <img src="https://img.icons8.com/color/96/000000/svelte.png" width="60" height="60" alt="Svelte"/>
+</div>
 
 ---
 > ⚡ _"Code. Learn. Build. Share."_
-
-<style>
-  h1, h3, p, ul, li {
-    font-family: 'Roboto', sans-serif;
-  }
-  h1 {
-    font-size: 3em;
-    color: #2c3e50;
-    text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
-  }
-  h3 {
-    font-size: 1.8em;
-    color: #34495e;
-  }
-  p, li {
-    font-size: 1.2em;
-    color: #333;
-  }
-  img {
-    margin: 10px;
-    transition: transform 0.3s ease;
-  }
-  img:hover {
-    transform: scale(1.2);
-  }
-</style>
