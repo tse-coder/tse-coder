@@ -1,5 +1,5 @@
 # Hi 👋, I'm Tsegaye
-### Developer
+### Backend Developer
 - Open to **collaboration** on real-world apps
 - Ask me about **Backend**
 - Reach me: **shewamaretsegaye@gmail.com**
