@@ -1,4 +1,4 @@
-# Hi 👋, I'm Tsegaye
+# Hi 👋, This is Tsegaye
 ### Backend Developer
 - Open to **collaboration** on real-world apps
 - Ask me about **Backend**
