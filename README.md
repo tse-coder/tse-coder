@@ -1,42 +1,64 @@
-# Hi 👋, This is Tsegaye
-### Full-stack Developer
-- Open to **collaboration** on real-world apps
-- Ask me about **Backend**
-- Reach me: **shewamaretsegaye@gmail.com**
-- ⚡ Fun fact: I love turning complex ideas into usable apps
+<h1 align="center">👋 Hi, I'm <b>Tsegaye</b> </h1>
+<h3 align="center">Full-Stack Developer | Backend • DSA • ML</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=JavaScript+%7C+TypeScript+%7C+Python;Backend+Focused+Developer;Learning+DSA+%26+Machine+Learning" />
+</p>
 
 ---
-## 🔗 Connect with Me
-<div align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:shewamaretsegaye@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=express,nodejs" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,firebase" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=jupyter" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-0A0A0A?style=for-the-badge&logo=serverless&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DSA-111111?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=tensorflow&logoColor=orange"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tse-coder&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tse-coder&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
   <a href="https://github.com/tse-coder">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
-</div>
+  <a href="https://linkedin.com/in/tsegaye-shewamare">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
 ---
-## 🛠️ Skills
-<div align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/-React-20232A?style=plastic&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=plastic&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=plastic&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/-Socket.io-010101?style=plastic&logo=socket.io&logoColor=white" alt="Socket.io"/>
-  <img src="https://img.shields.io/badge/-Java-ED8B00?style=plastic&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/-SvelteKit-FF3E00?style=plastic&logo=svelte&logoColor=white" alt="SvelteKit"/>
-</div>
 
----
-> ⚡ _"Code. Learn. Build. Share."_
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:000000&height=120&section=footer"/>
+</p>
