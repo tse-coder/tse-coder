@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm <b>Tsegaye</b></h1>
-<h3 align="center">Full-Stack Developer | Backend • DSA • ML</h3>
+<h1 align="center">Hi, I'm <b>Tsegaye</b></h1>
+<h3 align="center">Software Developer | Backend • Frontend • AI • Data Analyst </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=520&lines=JavaScript+%7C+TypeScript+%7C+Python;Backend+Focused+Developer;Learning+DSA+and+Machine+Learning" />
@@ -34,5 +34,5 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:6a11cb,100:2575fc&height=140&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=150&section=footer" />
 </p>
