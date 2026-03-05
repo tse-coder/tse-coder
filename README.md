@@ -2,7 +2,7 @@
 <h3 align="center">Software Developer | Backend • Frontend • AI • Data Analyst </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=520&lines=JavaScript+%7C+TypeScript+%7C+Python;Backend+Focused+Developer;Learning+DSA+and+Machine+Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=520&lines=JavaScript+%7C+TypeScript+%7C+Python;Backend+Focused+Developer" />
 </p>
 
 <p align="center">
