@@ -27,8 +27,8 @@
   <a href="https://github.com/tse-coder">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://linkedin.com/in/tsegaye-shewamare">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://t.me/t_s_e_g_a_y_e">
+    <img src="https://skillicons.dev/icons?i=telegram" />
   </a>
 </p>
 
