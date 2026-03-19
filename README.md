@@ -4,7 +4,14 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=520&lines=JavaScript+%7C+TypeScript+%7C+Python;Backend+Focused+Developer" />
 </p>
-
+<br/>
+<p align="center" text="large">
+  <span>portfolio: </span>
+  <a href="https://tsegish-portfolio.vercel.app/" target="_blank" >
+    tsegaye.me
+  </a>
+</p>
+<br/><br/>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,postgres,supabase,firebase,jupyter" />
 </p>
@@ -14,6 +21,7 @@
   <img src="https://img.shields.io/badge/DSA-111111?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=tensorflow&logoColor=orange"/>
 </p>
+
 
 <!-- GitHub Stats Section -->
 <p align="center">
