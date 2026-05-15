@@ -7,7 +7,7 @@
 <br/>
 <p align="center" text="large">
   <span>portfolio: </span>
-  <a href="https://tsegish-portfolio.vercel.app/" target="_blank" >
+  <a href="https://tsegaye.me" target="_blank" >
     tsegaye.me
   </a>
 </p>
