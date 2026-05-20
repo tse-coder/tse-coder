@@ -13,7 +13,7 @@
 </p>
 <br/><br/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,postgres,supabase,firebase,jupyter" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,svelte,nestjs,nodejs,express,postgres,supabase,firebase,jupyter,opencv" />
 </p>
 
 <p align="center">
@@ -25,22 +25,15 @@
 
 <!-- GitHub Stats Section -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tse-coder&theme=gruvbox" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tse-coder&theme=gruvbox" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tse-coder&theme=tokyonight" />
+  <img src="https://ghstats.dev/api/card?username=tse-coder&hide_border=true&hide_title=true" alt="GitHub Stats Card" />
 </p>
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://github.com/tse-coder">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
   <a href="https://t.me/t_s_e_g_a_y_e">
-    <img src="https://skillicons.dev/icons?i=telegram" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-</p>
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=150&section=footer" />
+  <a href="mailto:shewamaretsegaye@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
