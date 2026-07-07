@@ -1,25 +1,21 @@
 <h1 align="center">Hi, I'm <b>Tsegaye</b></h1>
-<h3 align="center">Software • AI • Data Science </h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=520&lines=JavaScript+%7C+TypeScript+%7C+Python;Backend+Focused+Developer" />
-</p>
+<h3 align="center">Software Developer </h3>
 <br/>
-<p align="center" text="large">
-  <span>portfolio: </span>
-  <a href="https://tsegaye.me" target="_blank" >
-    tsegaye.me
-  </a>
-</p>
-<br/><br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,svelte,nestjs,nodejs,express,postgres,supabase,firebase,jupyter,opencv" />
-</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend-0A0A0A?style=for-the-badge&logo=serverless&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DSA-111111?style=for-the-badge&logo=leetcode&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=tensorflow&logoColor=orange"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="34" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="34" />
 </p>
 
 
