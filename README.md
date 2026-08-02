@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm <b>Tsegaye</b></h1>
-<h3 align="center">Software Developer </h3>
 <br/>
 
 <p align="center">
